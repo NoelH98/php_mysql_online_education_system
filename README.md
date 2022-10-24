@@ -1,6 +1,6 @@
 # PHP MYSQL Online Education System
 
-A simple PHP MYSQL online education system. The admin can publish articles/courses in PDF and WORD to the site and students can access it.
+A simple PHP MYSQL online education system. The admin can publish articles/courses in PDF to the site and students can access it.
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
